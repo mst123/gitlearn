@@ -6,7 +6,7 @@
  * @Description: git 测试
  */
 function a() {
-  console.log('a')
+  console.log('c')
 }
 a()
 // ceshi 修改
