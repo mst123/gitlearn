@@ -1,7 +1,7 @@
 /*
  * @Author: mashitu
  * @Date: 2022-01-05 10:12:15
- * @LastEditTime: 2022-01-06 10:20:46
+ * @LastEditTime: 2022-01-06 11:20:13
  * @LastEditors: mashitu
  * @Description: ceshi commit2
  */
@@ -16,3 +16,5 @@ function name() {
 function s() {
   console.log("没暂存")
 } 
+
+//fgaga
