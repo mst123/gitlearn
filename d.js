@@ -1,7 +1,7 @@
 /*
  * @Author: mashitu
  * @Date: 2022-01-05 10:13:15
- * @LastEditTime: 2022-01-06 11:17:07
+ * @LastEditTime: 2022-03-09 14:52:46
  * @LastEditors: mashitu
  * @Description: 分支ceshi to bo commit3
  */
@@ -17,3 +17,7 @@ function d() {
 // 测试checkout2
 
 // 测试checkout3
+
+function trdc(params) {
+  console.log(params);
+}
